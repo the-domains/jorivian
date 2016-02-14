@@ -1,28 +1,40 @@
-name: Jorivian
 favicon: null
-layout_spectrum: 0.3765566621441394
-typography_spectrum: 0.8334684078581631
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Jorivian
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.021463324781507254
-  lightness: 0.25873759808018804
-  saturation: 0.7432301926892251
-  rhythmicContrast: 0.024346949299797416
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9907251
+  brandStrength: 1
+  lightness: 0.801855
+  brandColors:
+    - '#FCCEA4'
+    - '#D78939'
+    - '#5C3021'
+    - '#E9E9E0'
+    - '#AAB6BB'
+  rhythmicContrast: 0.6922429
+typography_spectrum: 0.3819562
+layout_spectrum: 0.6838111
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
