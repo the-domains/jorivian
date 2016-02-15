@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Jorivian]]></title>
         <description><![CDATA[Jorivian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jorivian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 10:09:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 04:07:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jorivian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[An Experiment- iPad Pro]]></title>
             <description><![CDATA[<article><h1>An Experiment- iPad Pro</h1><p>OK, so I finally got my hands on an iPad Pro - 128 GB w/ Cellular. The first thing that I did was to run out and buy the Smart Keyboard and the Apple Pencil. Now, I'm ready to put it to the test. Mind you, I'm not testing out or reviewing the multitude of features of the iPad Pro. Instead, I'm trying it out to see if I can actually live and actually work with it and not need to reach for my laptop for any reason. So, here are some early impressions:
@@ -19,7 +19,7 @@ Workflow  Accesing files online, not intuitive. Constant connection to the web i
 Browsing the web is a breeze. I use Safari to surf the web on my laptop. The experience using Safari on the iPad Pro is almost identical to that. And if you have surf the web on your iPhone, this is "More" of the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9339630bd62634a4209012affb673727b7084ab4.png"></article>]]></description>
             <link>urn:uuid:2d0fd5a2-1623-4e68-ada4-6ab30a305ce1</link>
             <guid isPermaLink="false">a82beb19-8cc0-4fd0-ac06-551a55649cfd</guid>
-            <pubDate>Sun, 14 Feb 2016 10:09:26 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 04:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
