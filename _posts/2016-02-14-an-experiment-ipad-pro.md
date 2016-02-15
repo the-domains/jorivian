@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:2d0fd5a2-1623-4e68-ada4-6ab30a305ce1'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-14T10:09:26.180Z'
-dateModified: '2016-02-14T10:09:05.941Z'
+datePublished: '2016-02-15T04:06:52.251Z'
+dateModified: '2016-02-15T04:06:51.286Z'
 author: []
 title: An Experiment- iPad Pro
+sourcePath: _posts/2016-02-14-an-experiment-ipad-pro.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-an-experiment-ipad-pro.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
