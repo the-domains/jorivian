@@ -1,4 +1,8 @@
-layout_spectrum: 0.4033297
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.9907251
   brandStrength: 0.5118152
-  lightness: 0.801855
+  rhythmicContrast: 0.6922429
   brandColors:
     - '#FCCEA4'
     - '#D78939'
     - '#5C3021'
     - '#E9E9E0'
     - '#AAB6BB'
-  rhythmicContrast: 0.6922429
+  lightness: 0.801855
 typography_spectrum: 0.3819562
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.6301306
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Jorivian
